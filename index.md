@@ -72,15 +72,16 @@ This team is organized as follows.
 
 ### Phase 1 - Conception and initiation (Module 1)
 Phase 1 will include the development of a detailed Project Charter to be presented in Markdown with in-line images and tables (not word).It will include at least the following sections.
--Overview
--Purpose
--Benfits
--Stories
--Scope
--User experience sketches
--E-R diagram
--Sample data
--Risks and assumptions.
+
+- Overview
+- Purpose
+- Benfits
+- Stories
+- Scope
+- User experience sketches
+- E-R diagram
+- Sample data
+- Risks and assumptions.
 
 ### Phase 2 - Definition and planning (Module 2 and 3)
 
