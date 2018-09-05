@@ -71,28 +71,16 @@ This team is organized as follows.
 ## Scope
 
 ### Phase 1 - Conception and initiation (Module 1)
-
-Phase 1 involves a friendly competition between muliple teams, 
-each completing a quick (2-week, 1 module) exercise to develop a vision for the project 
-on a given platform. In competitions, this exercise may be done in an afternoon. 
-During Phase 1, the teams will work independently and each vision will be shared with the client. 
-
-Deliverables:
-
-- Project charter
-- Supporting artifacts (as described in this document)
-- Contract (link - the contract will reference this charter and supporting documents)
-
-This phase includes the development of:
-
-- [Stories by role](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Stories%20by%20role.pdf)
-- Initial acceptance criteria (link)
-- [E-R diagram](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Entity%20Relationship%20Diagram%20for%20CodeWord%20Project.pdf)
-- [Sample Data](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Entity%20Relationship%20Diagram%20for%20CodeWord%20Project.pdf)
-- [Project Sketches](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Sketches.pdf)
-- For each phase, initial scope, schedule, budget (included in this document)
-- [RFP Document](https://github.com/profcase/rfp-codewords/blob/master/index.md)
-
+Phase 1 will include the development of a detailed Project Charter to be presented in Markdown with in-line images and tables (not word).It will include at least the following sections.
+-Overview
+-Purpose
+-Benfits
+-Stories
+-Scope
+-User experience sketches
+-E-R diagram
+-Sample data
+-Risks and assumptions.
 
 ### Phase 2 - Definition and planning (Module 2 and 3)
 
